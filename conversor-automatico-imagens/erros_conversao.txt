@@ -1,0 +1,68 @@
+convert-im6.q16: unable to open image `php_mysql': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `tdd_php': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `zend.jpg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: unable to open image `php_mysql': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `tdd_php': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `zend.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `direto_ao_ponto': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `empreendedor': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `produtividade': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `startup.jpg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: unable to open image `direto_ao_ponto': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `empreendedor': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `produtividade': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `startup.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `css': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `es6': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `jogos_html': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `jquery': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `photoshop': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `web_responsivo.jpg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: unable to open image `css': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `es6': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `jogos_html': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `jquery': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `photoshop': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `web_responsivo.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `android': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `cordova': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `games': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `ios': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `swift': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `windows_phone.jpg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: unable to open image `android': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `cordova': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `games': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `ios': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `swift': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `windows_phone.png' @ error/convert.c/ConvertImageCommand/3258.
